@@ -132,3 +132,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/MP3_Player/.vs/MP3_Player/v15/Server/sqlite3/db.lock
